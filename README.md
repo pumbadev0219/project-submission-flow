@@ -55,11 +55,9 @@ project-submission-flow/
 
 ## 👤 Author
 
-Developed by [Tiago Freitas](https://www.linkedin.com/in/tiagosfreitas/)  
-💼 Power Platform & .NET Developer with 15+ years of experience in enterprise automation, cloud systems, and business solutions.
+Developed by [pumbadev0219](https://github.com/pumbadev0219)  
 
-📂 View more projects: [https://github.com/freitasts365](https://github.com/freitasts365)
-
+📂 View more projects: 
 ---
 
 ## 📄 License
